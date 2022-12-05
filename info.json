@@ -58,6 +58,13 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Symphonie \u00e0 grand orchestre - IV. Allegro con moto-Ue3mq-XWfmE.mp4?raw=true"
         },
         {
+            "id": "AjCAVtxwdqo",
+            "name": "Cheek to Cheek (From 'Top Hat')-AjCAVtxwdqo.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Cheek to Cheek (From 'Top Hat')-AjCAVtxwdqo.mp4",
+            "size": 4.8021709999999995,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Cheek to Cheek (From 'Top Hat')-AjCAVtxwdqo.mp4?raw=true"
+        },
+        {
             "id": "Fa2ldpLwHqo",
             "name": "Liszt - Piano Sonata in B minor, S.178-Fa2ldpLwHqo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Liszt - Piano Sonata in B minor, S.178-Fa2ldpLwHqo.mp4",
@@ -70,6 +77,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Thaikovsky - Eugene Onegin, 'Polonaise'-5m382kG9Hh0.mp4",
             "size": 49.201253,
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Thaikovsky - Eugene Onegin, 'Polonaise'-5m382kG9Hh0.mp4?raw=true"
+        },
+        {
+            "id": "KpLEGYTZ3iw",
+            "name": "Since You Left-KpLEGYTZ3iw.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Since You Left-KpLEGYTZ3iw.mp4",
+            "size": 4.5110399999999995,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Since You Left-KpLEGYTZ3iw.mp4?raw=true"
         },
         {
             "id": "sFBcEz3_Zho",
@@ -105,6 +119,13 @@
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/All The Things You Are-RpmRy-KjxLE.mp4",
             "size": 3.6836249999999997,
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/All The Things You Are-RpmRy-KjxLE.mp4?raw=true"
+        },
+        {
+            "id": "isFUuE0M0vE",
+            "name": "Como Fue-isFUuE0M0vE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Como Fue-isFUuE0M0vE.mp4",
+            "size": 4.657065,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Como Fue-isFUuE0M0vE.mp4?raw=true"
         },
         {
             "id": "eus6YtgudKk",
@@ -149,6 +170,13 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - L\u00e9gendes de Saint Francois - Francesco d'Assisi-CsZwUargZM4.mp4?raw=true"
         },
         {
+            "id": "FHTeuV2E1q8",
+            "name": "La Bionda. One for you, one for me. 1978-FHTeuV2E1q8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/La Bionda. One for you, one for me. 1978-FHTeuV2E1q8.mp4",
+            "size": 13.844868,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/La Bionda. One for you, one for me. 1978-FHTeuV2E1q8.mp4?raw=true"
+        },
+        {
             "id": "j1PHnRs74D0",
             "name": "There's A Time And Place For Everything-j1PHnRs74D0.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/There's A Time And Place For Everything-j1PHnRs74D0.mp4",
@@ -184,6 +212,13 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - Mal\u00e9diction, S121-4HLpZJdK_zw.mp4?raw=true"
         },
         {
+            "id": "WKdZxkrq-eQ",
+            "name": "Agust\u00edn Barrios - Classics of the Americas, Vol. 3 - Paraguay-WKdZxkrq-eQ.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Agust\u00edn Barrios - Classics of the Americas, Vol. 3 - Paraguay-WKdZxkrq-eQ.mp4",
+            "size": 73.157702,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Agust\u00edn Barrios - Classics of the Americas, Vol. 3 - Paraguay-WKdZxkrq-eQ.mp4?raw=true"
+        },
+        {
             "id": "dK3k2fq-7iM",
             "name": "Espana, Op. 236-dK3k2fq-7iM.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Espana, Op. 236-dK3k2fq-7iM.mp4",
@@ -191,5 +226,5 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Espana, Op. 236-dK3k2fq-7iM.mp4?raw=true"
         }
     ],
-    "total_size": 333.840608
+    "total_size": 434.8134539999999
 }
