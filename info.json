@@ -2,6 +2,13 @@
     "available_space": true,
     "content": [
         {
+            "id": "Iyxu2Rf46xI",
+            "name": "Girorgio Moroder-I Wanna Rock You-Iyxu2Rf46xI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Girorgio Moroder-I Wanna Rock You-Iyxu2Rf46xI.mp4",
+            "size": 21.630603999999998,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Girorgio Moroder-I Wanna Rock You-Iyxu2Rf46xI.mp4?raw=true"
+        },
+        {
             "id": "E0XUpyrix3Y",
             "name": "Liszt - Lasst mich ruhen, S.317-E0XUpyrix3Y.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Liszt - Lasst mich ruhen, S.317-E0XUpyrix3Y.mp4",
@@ -9,11 +16,25 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - Lasst mich ruhen, S.317-E0XUpyrix3Y.mp4?raw=true"
         },
         {
+            "id": "NVmY49DXE-0",
+            "name": "Banderas Negras-NVmY49DXE-0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Banderas Negras-NVmY49DXE-0.mp4",
+            "size": 3.077401,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Banderas Negras-NVmY49DXE-0.mp4?raw=true"
+        },
+        {
             "id": "dn1dRA1-t7k",
             "name": "Sounds Like 'Paper Moon' - A Soundtrack -OR- The Sounds of The Great Depression-dn1dRA1-t7k.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Sounds Like 'Paper Moon' - A Soundtrack -OR- The Sounds of The Great Depression-dn1dRA1-t7k.mp4",
             "size": 87.741862,
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Sounds Like 'Paper Moon' - A Soundtrack -OR- The Sounds of The Great Depression-dn1dRA1-t7k.mp4?raw=true"
+        },
+        {
+            "id": "yUmXyiCGCsM",
+            "name": "Liszt - Wie singt die Lerche sch\u00f6n S.312-yUmXyiCGCsM.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Liszt - Wie singt die Lerche sch\u00f6n S.312-yUmXyiCGCsM.mp4",
+            "size": 1.297836,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - Wie singt die Lerche sch\u00f6n S.312-yUmXyiCGCsM.mp4?raw=true"
         },
         {
             "id": "ZUsr8_WQ2l0",
@@ -30,6 +51,13 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - Wieder m\u00f6cht' ich dir begegnen, S.322-ADg-eh3iksw.mp4?raw=true"
         },
         {
+            "id": "Ue3mq-XWfmE",
+            "name": "Symphonie \u00e0 grand orchestre - IV. Allegro con moto-Ue3mq-XWfmE.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Symphonie \u00e0 grand orchestre - IV. Allegro con moto-Ue3mq-XWfmE.mp4",
+            "size": 9.261313999999999,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Symphonie \u00e0 grand orchestre - IV. Allegro con moto-Ue3mq-XWfmE.mp4?raw=true"
+        },
+        {
             "id": "Fa2ldpLwHqo",
             "name": "Liszt - Piano Sonata in B minor, S.178-Fa2ldpLwHqo.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Liszt - Piano Sonata in B minor, S.178-Fa2ldpLwHqo.mp4",
@@ -37,11 +65,32 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - Piano Sonata in B minor, S.178-Fa2ldpLwHqo.mp4?raw=true"
         },
         {
+            "id": "5m382kG9Hh0",
+            "name": "Thaikovsky - Eugene Onegin, 'Polonaise'-5m382kG9Hh0.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Thaikovsky - Eugene Onegin, 'Polonaise'-5m382kG9Hh0.mp4",
+            "size": 49.201253,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Thaikovsky - Eugene Onegin, 'Polonaise'-5m382kG9Hh0.mp4?raw=true"
+        },
+        {
+            "id": "sFBcEz3_Zho",
+            "name": "Murderer-sFBcEz3_Zho.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Murderer-sFBcEz3_Zho.mp4",
+            "size": 3.915505,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Murderer-sFBcEz3_Zho.mp4?raw=true"
+        },
+        {
             "id": "vveicOOx9FA",
             "name": "Marginaci\u00f3n-vveicOOx9FA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Marginaci\u00f3n-vveicOOx9FA.mp4",
             "size": 2.841601,
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Marginaci\u00f3n-vveicOOx9FA.mp4?raw=true"
+        },
+        {
+            "id": "97gmep50fvI",
+            "name": "Keyboard Sonata No. 2 in C Major, Hob. XVI, 7 - III. Finale - Allegro-97gmep50fvI.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Keyboard Sonata No. 2 in C Major, Hob. XVI, 7 - III. Finale - Allegro-97gmep50fvI.mp4",
+            "size": 1.529992,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Keyboard Sonata No. 2 in C Major, Hob. XVI, 7 - III. Finale - Allegro-97gmep50fvI.mp4?raw=true"
         },
         {
             "id": "Jhwhtq0HRu8",
@@ -58,11 +107,32 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/All The Things You Are-RpmRy-KjxLE.mp4?raw=true"
         },
         {
+            "id": "eus6YtgudKk",
+            "name": "Liszt - Hohe Liebe (Uhland)-eus6YtgudKk.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Liszt - Hohe Liebe (Uhland)-eus6YtgudKk.mp4",
+            "size": 1.530799,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - Hohe Liebe (Uhland)-eus6YtgudKk.mp4?raw=true"
+        },
+        {
+            "id": "etN8r2CC3D8",
+            "name": "Obertura de los esclavos felices-etN8r2CC3D8.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Obertura de los esclavos felices-etN8r2CC3D8.mp4",
+            "size": 12.898259,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Obertura de los esclavos felices-etN8r2CC3D8.mp4?raw=true"
+        },
+        {
             "id": "pHl4QmOT9IA",
             "name": "Pyotr Tchaikovsky - Souvenir de Florence-pHl4QmOT9IA.mp4",
             "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Pyotr Tchaikovsky - Souvenir de Florence-pHl4QmOT9IA.mp4",
             "size": 43.149764,
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Pyotr Tchaikovsky - Souvenir de Florence-pHl4QmOT9IA.mp4?raw=true"
+        },
+        {
+            "id": "zXqQtFCJm64",
+            "name": "Gran Jota de Concierto - T\u00e1rrega. Pablo S\u00e1inz Villegas - LIVE-zXqQtFCJm64.mp4",
+            "path": "/home/alanmatzumiya/Videos/containers/h4/videos/Gran Jota de Concierto - T\u00e1rrega. Pablo S\u00e1inz Villegas - LIVE-zXqQtFCJm64.mp4",
+            "size": 19.487717,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Gran Jota de Concierto - T\u00e1rrega. Pablo S\u00e1inz Villegas - LIVE-zXqQtFCJm64.mp4?raw=true"
         },
         {
             "id": "Rm5GEfgeroo",
@@ -121,5 +191,5 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Espana, Op. 236-dK3k2fq-7iM.mp4?raw=true"
         }
     ],
-    "total_size": 210.00992800000003
+    "total_size": 333.840608
 }
