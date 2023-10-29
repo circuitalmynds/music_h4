@@ -65,6 +65,13 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/[Jean-Efflam Bavouzet] Haydn - Piano Sonata in D, No.50, Hob.XVI_37-0FqCqwaoXVg.mp4?raw=true"
         },
         {
+            "id": "pbzCp6mCNOU",
+            "name": "Paganini： I Palpiti, Op. 13, MS. 77 [pbzCp6mCNOU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h4/videos/Paganini： I Palpiti, Op. 13, MS. 77 [pbzCp6mCNOU].mp4",
+            "size": 16.106953,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Paganini： I Palpiti, Op. 13, MS. 77 [pbzCp6mCNOU].mp4?raw=true"
+        },
+        {
             "id": "C7XGTWQ62no",
             "name": "Baby I Need Your Lovin'-C7XGTWQ62no.mp4",
             "path": "/home/alanmatzumiya/Videos/container/h4/videos/Baby I Need Your Lovin'-C7XGTWQ62no.mp4",
@@ -189,6 +196,13 @@
             "path": "/home/alanmatzumiya/Videos/container/h4/videos/Liszt - Freudvoll und leidvoll, S. 280 (ca. 1848) 2. Vertonung-ZUsr8_WQ2l0.mp4",
             "size": 0.8823489999999999,
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - Freudvoll und leidvoll, S. 280 (ca. 1848) 2. Vertonung-ZUsr8_WQ2l0.mp4?raw=true"
+        },
+        {
+            "id": "ZLojxRVz1iA",
+            "name": "Vremena goda, Op. 67： Winter： Ice [ZLojxRVz1iA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h4/videos/Vremena goda, Op. 67： Winter： Ice [ZLojxRVz1iA].mp4",
+            "size": 2.085911,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Vremena goda, Op. 67： Winter： Ice [ZLojxRVz1iA].mp4?raw=true"
         },
         {
             "id": "RpmRy-KjxLE",
@@ -450,6 +464,13 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Liszt - Malédiction, S121-4HLpZJdK_zw.mp4?raw=true"
         },
         {
+            "id": "45COOvJpeFg",
+            "name": "The Lotus Eaters [45COOvJpeFg].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/h4/videos/The Lotus Eaters [45COOvJpeFg].mp4",
+            "size": 8.376104,
+            "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/The Lotus Eaters [45COOvJpeFg].mp4?raw=true"
+        },
+        {
             "id": "pMP1t1ICWLg",
             "name": "Keyboard Sonata No. 18 in E-Flat Major, Hob. XVI, Es 3 - III. Finale - Allegro assai-pMP1t1ICWLg.mp4",
             "path": "/home/alanmatzumiya/Videos/container/h4/videos/Keyboard Sonata No. 18 in E-Flat Major, Hob. XVI, Es 3 - III. Finale - Allegro assai-pMP1t1ICWLg.mp4",
@@ -569,5 +590,5 @@
             "url": "https://github.com/circuitalmynds/music_h4/blob/main/videos/Boys Do Fall In Love-GUsRayHfmm0.mp4?raw=true"
         }
     ],
-    "total_size": 914.1297959999999
+    "total_size": 940.6987640000001
 }
